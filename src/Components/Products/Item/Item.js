@@ -28,7 +28,7 @@ function Item() {
       </div>
 
       <div className="flex font-bold justify-center items-center border-t-2 p-2 mt-4 border-black">
-        <TelegramIcon style={{ backgroundColor: '#0ABAB5'}}  />
+        <TelegramIcon style={{ color: '#0ABAB5'}}  />
         <div className="text-[#0ABAB5]">Contact Supplier</div>
       </div>
     </div>
